@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/**
+ * main-Entrypoint
+ * Return : Always 0(succes)
 int main(void)
 {
 	int n;

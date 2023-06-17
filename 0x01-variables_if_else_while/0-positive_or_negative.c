@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
- * main-Entrypoint
- * Return : Always 0(succes)
+/* more headers goes there */
+
+/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
